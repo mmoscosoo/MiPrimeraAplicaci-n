@@ -22,7 +22,7 @@ with col1:
   st.write("¿No?")
   resp = st.checkbox('deacuerdo')
   if resp: 
-    st.write("SIZAAAA")
+    st.write("Eres de los mios")
 
 with col2:
   st.subheader("Razón 2: Son muy:")
